@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sort_fixtures
-=======
 # Sort Fixtures
 
 This repository contains the sorted fixtures for Frappe/ERPNext, including important fixtures and customizations.
@@ -19,4 +16,3 @@ Reordering fixtures helps organize JSON files for the app. Use the following com
 ```bash
 bench reorder-fixtures --app your_custom_app
 ```
->>>>>>> develop
